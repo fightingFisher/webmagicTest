@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_07">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/webmagic-core-0.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/webmagic-extension-0.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/websocket-api-9.2.17.v20160517.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/websocket-client-9.2.17.v20160517.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/websocket-common-9.2.17.v20160517.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/assertj-core-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/bcpg-jdk15-143.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/bcprov-jdk15-143.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/classmate-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/cssparser-0.9.19.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/distributor-all-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/dynamica2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/fastjson-1.1.37.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/htmlunit-2.22.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/htmlunit-core-js-2.22.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/htmlunit-driver-standalone-2.21.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jackson-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/javax.mail-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/json-path-0.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/license3j-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/neko-htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-aop-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-beans-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-context-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-context-support-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-data-commons-core-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-data-jpa-1.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-data-redis-1.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-expression-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-jdbc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-orm-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-tx-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/spring-webmvc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/pachong/ResourceCrawler/lib/xsoup-0.2.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
